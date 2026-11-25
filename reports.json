@@ -1,6 +1,14 @@
 [
  {
   "period": "daily",
+  "label": "2026-11-25",
+  "path": "2026-11-25/",
+  "covers": "Tue 24 Nov 2026 (New York day)",
+  "summary": "6 booked · 4 showed · raw show 80% · delivery 3/4",
+  "built": "2026-11-25 07:55"
+ },
+ {
+  "period": "daily",
   "label": "2026-11-24",
   "path": "2026-11-24/",
   "covers": "Mon 23 Nov 2026 (New York day)",
