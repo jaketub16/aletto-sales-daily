@@ -40,6 +40,14 @@
   "built": "2026-11-23 07:56"
  },
  {
+  "period": "weekly",
+  "label": "2026-11-20_to_2026-11-26",
+  "path": "weekly/2026-11-20_to_2026-11-26/",
+  "covers": "Fri 20 Nov – Thu 26 Nov 2026 (New York days)",
+  "summary": "32 booked · 13 showed · raw show 65% · delivery 9/13",
+  "built": "2026-11-27 09:02"
+ },
+ {
   "period": "daily",
   "label": "2026-11-20",
   "path": "2026-11-20/",
